@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GRIN2B Italia",
+    "description": "",
+    "home_page_url": "https://grin2bitalia.github.io/grin2b-pages",
+    "feed_url": "https://grin2bitalia.github.io/grin2b-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://grin2bitalia.github.io/grin2b-pages/media/website/06-34-06.jpg",
+    "author": {
+        "name": "Enrico Cascone"
+    },
+    "items": [
+        {
+            "id": "https://grin2bitalia.github.io/grin2b-pages/inizio.html",
+            "url": "https://grin2bitalia.github.io/grin2b-pages/inizio.html",
+            "title": "Inizio!",
+            "summary": "Questa è la prima pagina web",
+            "content_html": "<p>Questa è la prima pagina web</p>",
+            "author": {
+                "name": "Enrico Cascone"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-20T12:26:47+02:00",
+            "date_modified": "2020-10-20T12:26:47+02:00"
+        }
+    ]
+}
