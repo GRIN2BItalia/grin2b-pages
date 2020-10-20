@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://grin2bitalia.github.io/grin2b-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.grin2bitalia.it/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://grin2bitalia.github.io/grin2b-pages/</loc>
+<loc>https://www.grin2bitalia.it/</loc>
 </url>
 <url>
-<loc>https://grin2bitalia.github.io/grin2b-pages/inizio.html</loc>
+<loc>https://www.grin2bitalia.it/inizio.html</loc>
 <lastmod>2020-10-20T12:26:47+02:00</lastmod>
 </url>
 </urlset>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>GRIN2B Italia</title>
-    <link href="https://grin2bitalia.github.io/grin2b-pages/feed.xml" rel="self" />
-    <link href="https://grin2bitalia.github.io/grin2b-pages" />
+    <link href="https://www.grin2bitalia.it/feed.xml" rel="self" />
+    <link href="https://www.grin2bitalia.it" />
     <updated>2020-10-20T12:26:47+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
-    <id>https://grin2bitalia.github.io/grin2b-pages</id>
+    <id>https://www.grin2bitalia.it</id>
 
     <entry>
         <title>Inizio!</title>
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="https://grin2bitalia.github.io/grin2b-pages/inizio.html"/>
-        <id>https://grin2bitalia.github.io/grin2b-pages/inizio.html</id>
+        <link href="https://www.grin2bitalia.it/inizio.html"/>
+        <id>https://www.grin2bitalia.it/inizio.html</id>
 
         <updated>2020-10-20T12:26:47+02:00</updated>
             <summary>
