@@ -13,16 +13,16 @@
         {
             "id": "http://www.grin2bitalia.it/inizio.html",
             "url": "http://www.grin2bitalia.it/inizio.html",
-            "title": "Inizio!",
-            "summary": "Questa è la prima pagina web",
-            "content_html": "<p>Questa è la prima pagina web</p>",
+            "title": "Chi siamo",
+            "summary": "Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da \"Disturbo dello sviluppo neurologico correlato a GRIN2B\" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti&hellip;",
+            "content_html": "<p>Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da <strong>\"Disturbo dello sviluppo neurologico correlato a GRIN2B\"</strong> tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti e/o una peggiore degenerazione della malattia stessa.</p>",
             "author": {
                 "name": "Enrico Cascone"
             },
             "tags": [
             ],
             "date_published": "2020-10-20T12:26:47+02:00",
-            "date_modified": "2020-10-20T12:26:47+02:00"
+            "date_modified": "2020-10-20T20:55:57+02:00"
         }
     ]
 }

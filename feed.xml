@@ -3,29 +3,29 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-10-20T12:26:47+02:00</updated>
+    <updated>2020-10-20T20:55:57+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
     <id>http://www.grin2bitalia.it</id>
 
     <entry>
-        <title>Inizio!</title>
+        <title>Chi siamo</title>
         <author>
             <name>Enrico Cascone</name>
         </author>
         <link href="http://www.grin2bitalia.it/inizio.html"/>
         <id>http://www.grin2bitalia.it/inizio.html</id>
 
-        <updated>2020-10-20T12:26:47+02:00</updated>
+        <updated>2020-10-20T20:55:57+02:00</updated>
             <summary>
                 <![CDATA[
-                    Questa è la prima pagina web
+                    Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da "Disturbo dello sviluppo neurologico correlato a GRIN2B" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Questa è la prima pagina web</p>
+                <p>Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da <strong>"Disturbo dello sviluppo neurologico correlato a GRIN2B"</strong> tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti e/o una peggiore degenerazione della malattia stessa.</p>
             ]]>
         </content>
     </entry>
