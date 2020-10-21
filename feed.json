@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html",
+            "url": "http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html",
+            "title": "GRIN2B Italia: i nostri risultati",
+            "summary": "E' da relativamente poco tempo che la diagnosi della mutazione genetica relativa al gene GRIN2B è uscita dalla fase della sperimentazione. Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa rende i loro figli così speciali. Anche la nostra Associazione&hellip;",
+            "content_html": "<p>E' da relativamente poco tempo che la diagnosi della mutazione genetica relativa al gene GRIN2B è uscita dalla fase della sperimentazione.</p>\n<p>Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa rende i loro figli così speciali.</p>\n<p>Anche la nostra Associazione sta muovendo i primi passi, e, non appena l'iter amministrativo sarà completato, potremo essere un punto di riferimento, una guida, per le famiglie che hanno appena avuto la diagnosi.</p>\n<p>L'insieme è più grande delle parti. </p>",
+            "author": {
+                "name": "Enrico Cascone"
+            },
+            "tags": [
+                   "GRIN2B Italia"
+            ],
+            "date_published": "2020-10-21T18:18:46+02:00",
+            "date_modified": "2020-10-21T18:19:17+02:00"
+        },
+        {
             "id": "http://www.grin2bitalia.it/volti-grin2b-italia.html",
             "url": "http://www.grin2bitalia.it/volti-grin2b-italia.html",
             "title": "Volti e momenti di famiglie GRIN2B",
@@ -23,7 +38,7 @@
                    "GRIN2B Italia"
             ],
             "date_published": "2020-10-21T02:13:46+02:00",
-            "date_modified": "2020-10-21T16:04:10+02:00"
+            "date_modified": "2020-10-21T18:10:41+02:00"
         },
         {
             "id": "http://www.grin2bitalia.it/grin2bitalia-presentazione.html",
@@ -38,7 +53,7 @@
                    "GRIN2B Italia"
             ],
             "date_published": "2020-10-20T12:26:47+02:00",
-            "date_modified": "2020-10-21T15:20:37+02:00"
+            "date_modified": "2020-10-21T18:11:04+02:00"
         }
     ]
 }

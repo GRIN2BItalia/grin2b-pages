@@ -3,12 +3,36 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-10-21T16:04:10+02:00</updated>
+    <updated>2020-10-21T18:19:17+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
     <id>http://www.grin2bitalia.it</id>
 
+    <entry>
+        <title>GRIN2B Italia: i nostri risultati</title>
+        <author>
+            <name>Enrico Cascone</name>
+        </author>
+        <link href="http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html"/>
+        <id>http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html</id>
+            <category term="GRIN2B Italia"/>
+
+        <updated>2020-10-21T18:19:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    E' da relativamente poco tempo che la diagnosi della mutazione genetica relativa al gene GRIN2B è uscita dalla fase della sperimentazione. Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa rende i loro figli così speciali. Anche la nostra Associazione&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>E' da relativamente poco tempo che la diagnosi della mutazione genetica relativa al gene GRIN2B è uscita dalla fase della sperimentazione.</p>
+<p>Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa rende i loro figli così speciali.</p>
+<p>Anche la nostra Associazione sta muovendo i primi passi, e, non appena l'iter amministrativo sarà completato, potremo essere un punto di riferimento, una guida, per le famiglie che hanno appena avuto la diagnosi.</p>
+<p>L'insieme è più grande delle parti. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Volti e momenti di famiglie GRIN2B</title>
         <author>
@@ -18,7 +42,7 @@
         <id>http://www.grin2bitalia.it/volti-grin2b-italia.html</id>
             <category term="GRIN2B Italia"/>
 
-        <updated>2020-10-21T16:04:10+02:00</updated>
+        <updated>2020-10-21T18:10:41+02:00</updated>
             <summary>
                 <![CDATA[
                     
@@ -95,7 +119,7 @@
         <id>http://www.grin2bitalia.it/grin2bitalia-presentazione.html</id>
             <category term="GRIN2B Italia"/>
 
-        <updated>2020-10-21T15:20:37+02:00</updated>
+        <updated>2020-10-21T18:11:04+02:00</updated>
             <summary>
                 <![CDATA[
                     Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da "Disturbo dello sviluppo neurologico correlato a GRIN2B" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti&hellip;
