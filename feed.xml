@@ -3,21 +3,22 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-10-21T02:15:50+02:00</updated>
+    <updated>2020-10-21T16:04:10+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
     <id>http://www.grin2bitalia.it</id>
 
     <entry>
-        <title>Al posto di blocco</title>
+        <title>Volti e momenti di famiglie GRIN2B</title>
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="http://www.grin2bitalia.it/al-posto-di-blocco.html"/>
-        <id>http://www.grin2bitalia.it/al-posto-di-blocco.html</id>
+        <link href="http://www.grin2bitalia.it/volti-grin2b-italia.html"/>
+        <id>http://www.grin2bitalia.it/volti-grin2b-italia.html</id>
+            <category term="GRIN2B Italia"/>
 
-        <updated>2020-10-21T02:15:50+02:00</updated>
+        <updated>2020-10-21T16:04:10+02:00</updated>
             <summary>
                 <![CDATA[
                     
@@ -41,15 +42,11 @@
     </figure>
     </div>
   </div>
-
-    <h2 id="header">
-      Header
-    </h2>
-
-  <ul>
-    <li>lista 1</li><li>lista 2</li>
-  </ul>
 <hr class="separator separator--dots" />
+
+  <p>
+    
+  </p>
 
                 ]]>
             </summary>
@@ -76,15 +73,11 @@
     </figure>
     </div>
   </div>
-
-    <h2 id="header">
-      Header
-    </h2>
-
-  <ul>
-    <li>lista 1</li><li>lista 2</li>
-  </ul>
 <hr class="separator separator--dots" />
+
+  <p>
+    
+  </p>
 <hr id="read-more" />
 
   <p>
@@ -94,14 +87,15 @@
         </content>
     </entry>
     <entry>
-        <title>Chi siamo</title>
+        <title>GRIN2B Italia: chi siamo</title>
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="http://www.grin2bitalia.it/inizio.html"/>
-        <id>http://www.grin2bitalia.it/inizio.html</id>
+        <link href="http://www.grin2bitalia.it/grin2bitalia-presentazione.html"/>
+        <id>http://www.grin2bitalia.it/grin2bitalia-presentazione.html</id>
+            <category term="GRIN2B Italia"/>
 
-        <updated>2020-10-21T01:44:06+02:00</updated>
+        <updated>2020-10-21T15:20:37+02:00</updated>
             <summary>
                 <![CDATA[
                     Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da "Disturbo dello sviluppo neurologico correlato a GRIN2B" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti&hellip;
