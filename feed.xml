@@ -3,12 +3,96 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-10-20T20:55:57+02:00</updated>
+    <updated>2020-10-21T02:13:46+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
     <id>http://www.grin2bitalia.it</id>
 
+    <entry>
+        <title>Al posto di blocco</title>
+        <author>
+            <name>Enrico Cascone</name>
+        </author>
+        <link href="http://www.grin2bitalia.it/al-posto-di-blocco.html"/>
+        <id>http://www.grin2bitalia.it/al-posto-di-blocco.html</id>
+
+        <updated>2020-10-21T02:13:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="http://www.grin2bitalia.it/media/posts/2/gallery/2017-02-01_17.03.20_1220472.jpg" data-size="4592x3448">
+        <img loading="lazy" src="http://www.grin2bitalia.it/media/posts/2/gallery/2017-02-01_17.03.20_1220472-thumbnail.jpg" height="541" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="http://www.grin2bitalia.it/media/posts/2/gallery/2019-09-09_19.07.24_7505005.jpg" data-size="5521x3687">
+        <img loading="lazy" src="http://www.grin2bitalia.it/media/posts/2/gallery/2019-09-09_19.07.24_7505005-thumbnail.jpg" height="481" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="http://www.grin2bitalia.it/media/posts/2/gallery/20112009047.jpg" data-size="900x900">
+        <img loading="lazy" src="http://www.grin2bitalia.it/media/posts/2/gallery/20112009047-thumbnail.jpg" height="720" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+    <h2 id="header">
+      Header
+    </h2>
+
+  <ul>
+    <li>lista 1</li><li>lista 2</li>
+  </ul>
+<hr class="separator separator--dots" />
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div  class="gallery-wrapper gallery-wrapper--center">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="http://www.grin2bitalia.it/media/posts/2/gallery/2017-02-01_17.03.20_1220472.jpg" data-size="4592x3448">
+        <img loading="lazy" src="http://www.grin2bitalia.it/media/posts/2/gallery/2017-02-01_17.03.20_1220472-thumbnail.jpg" height="541" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="http://www.grin2bitalia.it/media/posts/2/gallery/2019-09-09_19.07.24_7505005.jpg" data-size="5521x3687">
+        <img loading="lazy" src="http://www.grin2bitalia.it/media/posts/2/gallery/2019-09-09_19.07.24_7505005-thumbnail.jpg" height="481" width="720" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="http://www.grin2bitalia.it/media/posts/2/gallery/20112009047.jpg" data-size="900x900">
+        <img loading="lazy" src="http://www.grin2bitalia.it/media/posts/2/gallery/20112009047-thumbnail.jpg" height="720" width="720" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+    <h2 id="header">
+      Header
+    </h2>
+
+  <ul>
+    <li>lista 1</li><li>lista 2</li>
+  </ul>
+<hr class="separator separator--dots" />
+<hr id="read-more" />
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chi siamo</title>
         <author>
@@ -17,7 +101,7 @@
         <link href="http://www.grin2bitalia.it/inizio.html"/>
         <id>http://www.grin2bitalia.it/inizio.html</id>
 
-        <updated>2020-10-20T20:55:57+02:00</updated>
+        <updated>2020-10-21T01:44:06+02:00</updated>
             <summary>
                 <![CDATA[
                     Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da "Disturbo dello sviluppo neurologico correlato a GRIN2B" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti&hellip;
@@ -26,6 +110,17 @@
         <content type="html">
             <![CDATA[
                 <p>Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da <strong>"Disturbo dello sviluppo neurologico correlato a GRIN2B"</strong> tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti e/o una peggiore degenerazione della malattia stessa.</p>
+<p>In particolare l'Associazione si prefigge di svolgere le seguenti attività:</p>
+<ul>
+<li>essere un punto di riferimento e di aggregazione per tutti i malati e per i loro familiari;</li>
+<li>raccogliere costantemente informazioni riguardanti l'evoluzione della malattia, la ricerca scientifica, le possibilità di cura, le possibilità di assistenza sociale fomite dalle istituzioni e la disponibilità di nuovi strumenti al fine di diffondere questa conoscenza a tutti i malati ed ai loro familiari;</li>
+<li>organizzare incontri individuali o collettivi con le famiglie dei malati per tenerli costantemente informati e per aiutarli;</li>
+<li>sviluppare un sistema di comunicazione e supporto "on line" che consenta ai malati e alle loro famiglie di accedere in tempi rapidi a informazioni e strumenti messi a disposizione dall'Associazione, soprattutto laddove la dislocazione geografica non consenta frequenti incontri;</li>
+<li>tutelare e promuovere i diritti dei pazienti affetti dalla malattia e dei loro familiari attraverso il dialogo con le istituzioni;</li>
+<li>dialogare con gli ambiti sanitari e scientifici per segnalare le aree più critiche per i malati e le loro famiglie, stimolando e favorendo un loro intervento in tal senso;</li>
+<li>sensibilizzare, a tutti i livelli, alle peculiari problematiche che la malattia determina per i malati e per i loro familiari.</li>
+<li>proporre soluzioni per le prospettive future e per il cosiddetto “Dopo di noi”.</li>
+</ul>
             ]]>
         </content>
     </entry>
