@@ -3,12 +3,33 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-10-22T07:10:38+02:00</updated>
+    <updated>2020-10-22T07:32:13+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
     <id>http://www.grin2bitalia.it</id>
 
+    <entry>
+        <title>mutazione genetica GRIN2B</title>
+        <author>
+            <name>Enrico Cascone</name>
+        </author>
+        <link href="http://www.grin2bitalia.it/mutazione-genetica-grin2b.html"/>
+        <id>http://www.grin2bitalia.it/mutazione-genetica-grin2b.html</id>
+
+        <updated>2020-10-22T07:32:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Cos'è il disturbo collegato a GRIN2B?Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><span style="color: #e03e2d;">Cos'è il disturbo collegato a GRIN2B?</span></h3>
+<p>Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi da soli. Spesso soffrono di crisi epilettiche gravi e frequenti che non rispondono alle terapie mediche.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>GRIN2B Italia: i nostri risultati</title>
         <author>
