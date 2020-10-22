@@ -3,12 +3,32 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-10-22T15:05:23+02:00</updated>
+    <updated>2020-10-22T15:11:46+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
     <id>http://www.grin2bitalia.it</id>
 
+    <entry>
+        <title>Contattaci</title>
+        <author>
+            <name>Enrico Cascone</name>
+        </author>
+        <link href="http://www.grin2bitalia.it/contattaci.html"/>
+        <id>http://www.grin2bitalia.it/contattaci.html</id>
+
+        <updated>2020-10-22T15:11:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    e-mail: grin2b.italia@gmail.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>e-mail: grin2b.italia@gmail.com</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Domande Frequenti</title>
         <author>
