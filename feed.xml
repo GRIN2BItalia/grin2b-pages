@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>GRIN2B Italia</title>
-    <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
-    <link href="http://www.grin2bitalia.it" />
+    <link href="https://www.grin2bitalia.it/feed.xml" rel="self" />
+    <link href="https://www.grin2bitalia.it" />
     <updated>2020-10-22T07:10:38+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
-    <id>http://www.grin2bitalia.it</id>
+    <id>https://www.grin2bitalia.it</id>
 
     <entry>
         <title>GRIN2B Italia: i nostri risultati</title>
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html"/>
-        <id>http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html</id>
+        <link href="https://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html"/>
+        <id>https://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html</id>
             <category term="GRIN2B Italia"/>
 
         <updated>2020-10-22T07:09:53+02:00</updated>
@@ -38,8 +38,8 @@
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="http://www.grin2bitalia.it/volti-grin2b-italia.html"/>
-        <id>http://www.grin2bitalia.it/volti-grin2b-italia.html</id>
+        <link href="https://www.grin2bitalia.it/volti-grin2b-italia.html"/>
+        <id>https://www.grin2bitalia.it/volti-grin2b-italia.html</id>
             <category term="GRIN2B Italia"/>
 
         <updated>2020-10-22T07:10:03+02:00</updated>
@@ -67,8 +67,8 @@
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="http://www.grin2bitalia.it/grin2bitalia-presentazione.html"/>
-        <id>http://www.grin2bitalia.it/grin2bitalia-presentazione.html</id>
+        <link href="https://www.grin2bitalia.it/grin2bitalia-presentazione.html"/>
+        <id>https://www.grin2bitalia.it/grin2bitalia-presentazione.html</id>
             <category term="GRIN2B Italia"/>
 
         <updated>2020-10-22T07:10:38+02:00</updated>
