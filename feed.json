@@ -5,6 +5,7 @@
     "home_page_url": "http://www.grin2bitalia.it",
     "feed_url": "http://www.grin2bitalia.it/feed.json",
     "user_comment": "",
+    "icon": "http://www.grin2bitalia.it/media/website/pp.jpg",
     "author": {
         "name": "Enrico Cascone"
     },
@@ -22,7 +23,7 @@
                    "GRIN2B Italia"
             ],
             "date_published": "2020-10-21T18:18:46+02:00",
-            "date_modified": "2020-10-21T18:19:17+02:00"
+            "date_modified": "2020-10-22T07:09:53+02:00"
         },
         {
             "id": "http://www.grin2bitalia.it/volti-grin2b-italia.html",
@@ -37,7 +38,7 @@
                    "GRIN2B Italia"
             ],
             "date_published": "2020-10-21T02:13:46+02:00",
-            "date_modified": "2020-10-21T18:49:48+02:00"
+            "date_modified": "2020-10-22T07:10:03+02:00"
         },
         {
             "id": "http://www.grin2bitalia.it/grin2bitalia-presentazione.html",
@@ -52,7 +53,7 @@
                    "GRIN2B Italia"
             ],
             "date_published": "2020-10-20T12:26:47+02:00",
-            "date_modified": "2020-10-21T18:11:04+02:00"
+            "date_modified": "2020-10-22T07:10:38+02:00"
         }
     ]
 }
