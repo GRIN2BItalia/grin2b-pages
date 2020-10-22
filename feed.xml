@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>GRIN2B Italia</title>
-    <link href="https://www.grin2bitalia.it/feed.xml" rel="self" />
-    <link href="https://www.grin2bitalia.it" />
+    <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
+    <link href="http://www.grin2bitalia.it" />
     <updated>2020-10-22T07:10:38+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
-    <id>https://www.grin2bitalia.it</id>
+    <id>http://www.grin2bitalia.it</id>
 
     <entry>
         <title>GRIN2B Italia: i nostri risultati</title>
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="https://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html"/>
-        <id>https://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html</id>
+        <link href="http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html"/>
+        <id>http://www.grin2bitalia.it/grin2b-italia-i-nostri-risultati.html</id>
             <category term="GRIN2B Italia"/>
 
         <updated>2020-10-22T07:09:53+02:00</updated>
             <summary>
                 <![CDATA[
-                    E' da relativamente poco tempo che la diagnosi della mutazione genetica relativa al gene GRIN2B è uscita dalla fase della sperimentazione. Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa rende i loro figli così speciali. Anche la nostra Associazione&hellip;
+                    E' da relativamente poco tempo che la diagnosi della mutazione genetica relativa al gene GRIN2B è uscita dalla fase della sperimentazione. Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -38,8 +38,8 @@
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="https://www.grin2bitalia.it/volti-grin2b-italia.html"/>
-        <id>https://www.grin2bitalia.it/volti-grin2b-italia.html</id>
+        <link href="http://www.grin2bitalia.it/volti-grin2b-italia.html"/>
+        <id>http://www.grin2bitalia.it/volti-grin2b-italia.html</id>
             <category term="GRIN2B Italia"/>
 
         <updated>2020-10-22T07:10:03+02:00</updated>
@@ -67,14 +67,14 @@
         <author>
             <name>Enrico Cascone</name>
         </author>
-        <link href="https://www.grin2bitalia.it/grin2bitalia-presentazione.html"/>
-        <id>https://www.grin2bitalia.it/grin2bitalia-presentazione.html</id>
+        <link href="http://www.grin2bitalia.it/grin2bitalia-presentazione.html"/>
+        <id>http://www.grin2bitalia.it/grin2bitalia-presentazione.html</id>
             <category term="GRIN2B Italia"/>
 
         <updated>2020-10-22T07:10:38+02:00</updated>
             <summary>
                 <![CDATA[
-                    Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da "Disturbo dello sviluppo neurologico correlato a GRIN2B" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare le attuali condizioni di vita, a prevenire condizioni maggiormente invalidanti&hellip;
+                    Siamo una associazione che nasce per dare sostegno e tutela alle persone affette da "Disturbo dello sviluppo neurologico correlato a GRIN2B" tramite l'accompagnamento durante lo sviluppo della malattia, offrendo assistenza ed informazioni utili a migliorare&hellip;
                 ]]>
             </summary>
         <content type="html">
