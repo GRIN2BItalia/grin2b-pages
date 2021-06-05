@@ -3,7 +3,7 @@
     <title>GRIN2B Italia</title>
     <link href="http://www.grin2bitalia.it/feed.xml" rel="self" />
     <link href="http://www.grin2bitalia.it" />
-    <updated>2020-11-14T18:27:08+01:00</updated>
+    <updated>2021-06-05T18:27:51+02:00</updated>
     <author>
         <name>Enrico Cascone</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="http://www.grin2bitalia.it/contattaci.html"/>
         <id>http://www.grin2bitalia.it/contattaci.html</id>
 
-        <updated>2020-10-22T15:21:39+02:00</updated>
+        <updated>2021-06-05T18:27:51+02:00</updated>
             <summary>
                 <![CDATA[
-                    e-mail: grin2b.italia@gmail.com
+                    e-mail: grin2b.italia@gmail.com https://www.facebook.com/grin2bitalia
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>e-mail: grin2b.italia@gmail.com</p>
+                <p>e-mail: <a href="mailto:grin2b.italia@gmail.com">grin2b.italia@gmail.com</a></p>
+<p><a href="https://www.facebook.com/grin2bitalia" target="_blank" rel="noopener noreferrer">https://www.facebook.com/grin2bitalia</a></p>
             ]]>
         </content>
     </entry>
@@ -83,7 +84,7 @@
         <updated>2020-10-22T15:05:23+02:00</updated>
             <summary>
                 <![CDATA[
-                    Cos'è il disturbo collegato a GRIN2B?Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la qualità di vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi da soli. Spesso soffrono di crisi epilettiche gravi&hellip;
+                    Cos'è il disturbo collegato a GRIN2B? Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la qualità di vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi da soli. Spesso soffrono di crisi epilettiche&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -114,37 +115,6 @@
 <p>Sempre più famiglia riescono finalmente, a volte dopo decine di anni, a sapere cosa rende i loro figli così speciali.</p>
 <p>Anche la nostra Associazione sta muovendo i primi passi, e, non appena l'iter amministrativo sarà completato, potremo essere un punto di riferimento, una guida, per le famiglie che hanno appena avuto la diagnosi.</p>
 <p>L'insieme è più grande delle parti. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Volti e momenti di famiglie GRIN2B</title>
-        <author>
-            <name>Enrico Cascone</name>
-        </author>
-        <link href="http://www.grin2bitalia.it/volti-grin2b-italia.html"/>
-        <id>http://www.grin2bitalia.it/volti-grin2b-italia.html</id>
-            <category term="GRIN2B Italia"/>
-
-        <updated>2020-10-22T11:43:48+02:00</updated>
-            <summary>
-                <![CDATA[
-                    <div><div class="post__iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10157565572243950&show_text=true&width=552&height=579&appId" width="552" height="579" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div></div>
-<hr class="separator separator--dots" />
-<div><div class="post__iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10156845483713950&show_text=true&width=552&height=665&appId" width="552" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div></div>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div><div class="post__iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10157565572243950&show_text=true&width=552&height=579&appId" width="552" height="579" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div></div>
-<hr class="separator separator--dots" />
-<div><div class="post__iframe"><iframe loading="lazy" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10156845483713950&show_text=true&width=552&height=665&appId" width="552" height="665" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div></div>
-<hr id="read-more" />
-
-  <p>
-    
-  </p>
             ]]>
         </content>
     </entry>

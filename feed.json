@@ -5,6 +5,7 @@
     "home_page_url": "http://www.grin2bitalia.it",
     "feed_url": "http://www.grin2bitalia.it/feed.json",
     "user_comment": "",
+    "icon": "http://www.grin2bitalia.it/media/website/Logo-GRIN2B-Italia.jpg",
     "author": {
         "name": "Enrico Cascone"
     },
@@ -13,15 +14,15 @@
             "id": "http://www.grin2bitalia.it/contattaci.html",
             "url": "http://www.grin2bitalia.it/contattaci.html",
             "title": "Contattaci",
-            "summary": "e-mail: grin2b.italia@gmail.com",
-            "content_html": "<p>e-mail: grin2b.italia@gmail.com</p>",
+            "summary": "e-mail: grin2b.italia@gmail.com https://www.facebook.com/grin2bitalia",
+            "content_html": "<p>e-mail: <a href=\"mailto:grin2b.italia@gmail.com\">grin2b.italia@gmail.com</a></p>\n<p><a href=\"https://www.facebook.com/grin2bitalia\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.facebook.com/grin2bitalia</a></p>",
             "author": {
                 "name": "Enrico Cascone"
             },
             "tags": [
             ],
             "date_published": "2020-10-22T15:11:46+02:00",
-            "date_modified": "2020-10-22T15:21:39+02:00"
+            "date_modified": "2021-06-05T18:27:51+02:00"
         },
         {
             "id": "http://www.grin2bitalia.it/domande-frequenti.html",
@@ -41,7 +42,7 @@
             "id": "http://www.grin2bitalia.it/mutazione-genetica-grin2b.html",
             "url": "http://www.grin2bitalia.it/mutazione-genetica-grin2b.html",
             "title": "La mutazione genetica GRIN2B",
-            "summary": "Cos'è il disturbo collegato a GRIN2B?Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la qualità di vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi da soli. Spesso soffrono di crisi epilettiche gravi&hellip;",
+            "summary": "Cos'è il disturbo collegato a GRIN2B? Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la qualità di vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi da soli. Spesso soffrono di crisi epilettiche&hellip;",
             "content_html": "<h3><span style=\"color: #e03e2d;\">Cos'è il disturbo collegato a GRIN2B?</span></h3>\n<p>Il disturbo GRIN2B è una rara condizione genetica con gravi conseguenze che limitano la qualità di vita. Molti pazienti GRIN2B non parlano, incapaci di camminare e molti non possono nutrirsi o lavarsi da soli. Spesso soffrono di crisi epilettiche gravi e frequenti che non rispondono alle terapie mediche.</p>",
             "author": {
                 "name": "Enrico Cascone"
@@ -65,21 +66,6 @@
             ],
             "date_published": "2020-10-21T18:18:46+02:00",
             "date_modified": "2020-10-22T07:09:53+02:00"
-        },
-        {
-            "id": "http://www.grin2bitalia.it/volti-grin2b-italia.html",
-            "url": "http://www.grin2bitalia.it/volti-grin2b-italia.html",
-            "title": "Volti e momenti di famiglie GRIN2B",
-            "summary": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10157565572243950&show_text=true&width=552&height=579&appId\" width=\"552\" height=\"579\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe></div></div>\n<hr class=\"separator separator--dots\" />\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10156845483713950&show_text=true&width=552&height=665&appId\" width=\"552\" height=\"665\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe></div></div>\n",
-            "content_html": "<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10157565572243950&show_text=true&width=552&height=579&appId\" width=\"552\" height=\"579\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe></div></div>\n<hr class=\"separator separator--dots\" />\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FTelethon.Italia%2Fposts%2F10156845483713950&show_text=true&width=552&height=665&appId\" width=\"552\" height=\"665\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allow=\"encrypted-media\"></iframe></div></div>\n<hr id=\"read-more\" />\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "Enrico Cascone"
-            },
-            "tags": [
-                   "GRIN2B Italia"
-            ],
-            "date_published": "2020-10-21T02:13:46+02:00",
-            "date_modified": "2020-10-22T11:43:48+02:00"
         },
         {
             "id": "http://www.grin2bitalia.it/grin2bitalia-presentazione.html",
